@@ -1,5 +1,4 @@
 asyncstdlib
-black
 datetime
 jsonschema
 pylint
